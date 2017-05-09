@@ -1,5 +1,6 @@
 # installation
-Ubuntu 14.04 with TITAN X Maxwell deep learning installation
+
+Ubuntu 14.04 with TITAN X Maxwell deep learning installation (CUDA7.5 + cuDNN 5.1)
 
 Install Git:
 
